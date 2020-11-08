@@ -7,7 +7,9 @@ This report focuses on analyzing the differences between the weather in June vs.
 Per the temperature analysis between the months of July and December, the average temperatures do not have a large difference.  However, the minimum and maximum temperature differences were found to be significant.
 
 -The average temperature in July is approximately 75 degrees and the month of December is  71 degrees. 
+
 -The lowest temperature of July is 64 degrees and the lowest temperature in December is 56 degrees. 
+
 -The highest temperature in July is 85 degrees and the highest temperature in December is  83 degrees. 
 
 ## Summary 
