@@ -10,6 +10,6 @@ Per the temperature analysis between the months of July and December, the averag
 -The lowest temperature of July is 64 degrees and the lowest temperature in December is 56 degrees. 
 -The highest temperature in July is 85 degrees and the highest temperature in December is  83 degrees. 
 
-##Summary 
+## Summary 
 
 The average temperature difference between the months of July and December differ by 3 degrees. However the month of July seems to be the best month for vacationing as the lowest temperature is 64 degrees whereas the lowest temperature in December is a cold 56 degrees, almost a 10 degree difference. In conclusion, the ideal month to vacation would be the month of July as the temperatures do not reach as low as in December.  
